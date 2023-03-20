@@ -348,7 +348,7 @@ def start_pressed():
 
     update_file_tree()
     update_filecount_info()
-    update_start_btn_clickable
+    update_start_btn_clickable()
 
 
 
